@@ -1,0 +1,75 @@
+
+.bg {
+    background-color: rgb(225, 255, 225);
+    height: 1200px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 17px rgb(0, 0, 0);
+    border: 1px rgb(0, 0, 0) solid;
+}
+
+.about{
+		position:absolute;
+		left:18%;
+		top:46%;
+}
+body {
+    background-image: repeating-linear-gradient(9deg, black, rgb(125, 235, 1000));
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+
+.ab{
+    
+    position: absolute;
+    left: 22%;
+    top: 99%;
+}
+
+.years{
+    position: absolute;
+    left: 0%;
+    top: 100%;
+}
+
+.intern{
+    position: absolute;
+    left: 0%;
+    top: 200%;
+}
+.interest{
+      position: absolute;
+      left: 0%;
+      top: 255%;
+}
+.cr{
+    
+    position: absolute;
+    left: 52%;
+    top: 46%;
+}
+.vl{
+	border-left: 1px solid black;
+	height: 750px;
+	position: absolute;
+	left: 50%;
+	margin-left: -3px;
+	top: 50%;
+}
+.phone{
+	color: black;
+}
+.link
+{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+}

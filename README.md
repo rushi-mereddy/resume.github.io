@@ -1,2 +1,0 @@
-# resume.github.io
- 
